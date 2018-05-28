@@ -2,7 +2,7 @@
 
 ![alt text][ScreenShot]
 
-[ScreenShot]: https://github.com/1ryberr/MyPhoto/blob/master/IMG_0008.PNG
+[ScreenShot]: https://github.com/1ryberr/MemeMe/blob/master/IMG_0009.JPG
 
 # What the application does.
 >
