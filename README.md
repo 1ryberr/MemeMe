@@ -1,4 +1,4 @@
-# MyPhoto
+# MemeMe
 
 ![alt text][ScreenShot]
 
